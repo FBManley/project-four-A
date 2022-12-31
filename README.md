@@ -1,5 +1,5 @@
 # Project Template: React/Rails API
-
+branching to "dev" to preserve main branch in case of fuck ups
 ## Description
 
 This project is scaffolded so that you can build a React frontend and Rails
